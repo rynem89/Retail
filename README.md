@@ -87,4 +87,4 @@ Use Dropout for ANN and find the optimum number of clusters (clusters formed con
 
 Find the best setting of neural net that minimizes the loss and can predict the sales best. Use techniques like Grid search, cross-validation and Random search.
 
- 
+ Download the dataset from: https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects
